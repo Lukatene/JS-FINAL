@@ -12,7 +12,7 @@ sr.reveal(`.home__footer`, { origin: "bottom", delay: 800 });
 
 
 
-fetch("../shop.json", {
+fetch("https://lukatene.github.io/JS-FINAL/shop.json", {
   method: "GET",
 })
   .then((data) => data.json())
