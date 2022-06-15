@@ -3,22 +3,22 @@ let data = [
     {
        id: 1,
        imageUrl: 'img/kanye-west-808s-heartbreak-kaws-2.jpg' ,
-       url: 'https://google.com'
+       url: '../shop.html'
     },
     {
         id: 2,
         imageUrl: 'img/asap.jpg' ,
-        url: 'https://google.com'
+        url: '../shop.html'
     },
     {
         id: 3,
         imageUrl: 'img/my-beautiful-darked.jpg' ,
-        url: 'https://google.com'
+        url: '../shop.html'
     },
     {
         id: 4,
         imageUrl: 'img/kasabian.jpg' ,
-        url: 'https://google.com'
+        url: '../shop.html'
     }
 
 ]
