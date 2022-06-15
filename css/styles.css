@@ -981,14 +981,14 @@ input {
 }
 
 .home1 {
-	background-color: var(--first-color);
+
 	padding: 9rem 0 2rem;
 	height: 100vh;
 	margin: 0 auto;
   }
 
   .shop {
-	background-color: var(--first-color);
+
 	padding: 9rem 0 2rem;
 	height: 100vh;
 	margin: 0 auto;
@@ -996,4 +996,17 @@ input {
 
   .parent{
 	display: flex;
+	flex-direction: column;
+  }
+
+  .name {
+	color:var(--second-color);
+	padding-top: 30px;
+  }
+
+  .main__shop{
+
+
+	height: 100vh;
+
   }

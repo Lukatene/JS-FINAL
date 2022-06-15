@@ -1,20 +1,56 @@
 [
   {
     "id": "1",
-    "name": "John",
-    "age": "25",
-    "url": "./img/kasabian.jpg"
+    "name": "Kanye West",
+    "price": "25$",
+    "url": "./img/1.png"
   },
   {
-    "id": "1",
-    "name": "John",
-    "age": "25",
-    "url": "./img/kasabian.jpg"
+    "id": "2",
+    "name": "Kanye West",
+    "price": "25$",
+    "url": "./img/2.png"
   },
   {
-    "id": "1",
-    "name": "John",
-    "age": "25",
-    "url": "./img/kasabian.jpg"
-  }  
+    "id": "3",
+    "name": "Kanye West",
+    "price": "25$",
+    "url": "./img/3.png"
+  },
+  {
+    "id": "4",
+    "name": "A$AP ROCKY",
+    "price": "25$",
+    "url": "./img/4.png"
+  },
+  {
+    "id": "5",
+    "name": "A$AP ROCKY",
+    "price": "25$",
+    "url": "./img/5.png"
+  },
+  {
+    "id": "6",
+    "name": "Kanye West",
+    "price": "25$",
+    "url": "./img/6.png"
+  },
+  {
+    "id": "7",
+    "name": "KASABIAN",
+    "price": "25$",
+    "url": "./img/7.png"
+  },
+  {
+    "id": "8",
+    "name": "KASABIAN",
+    "price": "25$",
+    "url": "./img/8.png"
+  },
+  {
+    "id": "6",
+    "name": "Kanye West",
+    "price": "25$",
+    "url": "./img/9.png"
+  }
 ]

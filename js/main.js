@@ -23,7 +23,7 @@ fetch("https://lukatene.github.io/JS-FINAL/shop.json", {
      <h1 class="name">${item.name}</h1>
      
      <img class="shop_image" src="${item.url}" alt="img" />
-     <p class="age">${item.age}</p>
+     <p class="age">${item.price}</p>
    </div>`;
       parent.innerHTML += html;
     });
