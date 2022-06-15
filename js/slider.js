@@ -3,22 +3,22 @@ let data = [
     {
        id: 1,
        imageUrl: 'img/kanye-west-808s-heartbreak-kaws-2.jpg' ,
-       url: '../shop.html'
+       url: 'https://lukatene.github.io/JS-FINAL/shop.html'
     },
     {
         id: 2,
         imageUrl: 'img/asap.jpg' ,
-        url: '../shop.html'
+        url: 'https://lukatene.github.io/JS-FINAL/shop.html'
     },
     {
         id: 3,
         imageUrl: 'img/my-beautiful-darked.jpg' ,
-        url: '../shop.html'
+        url: 'https://lukatene.github.io/JS-FINAL/shop.html'
     },
     {
         id: 4,
         imageUrl: 'img/kasabian.jpg' ,
-        url: '../shop.html'
+        url: 'https://lukatene.github.io/JS-FINAL/shop.html'
     }
 
 ]
